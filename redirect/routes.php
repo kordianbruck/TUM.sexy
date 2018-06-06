@@ -259,6 +259,10 @@ class Route {
             'target'      => 'https://www.os.in.tum.de/studium-und-lehre/ss18/mobile-verteilte-systeme/',
             'moodle_id'   => '38940',
         ],
+        'io' => [
+            'description' => 'Information Officer',
+            'target'      => 'https://www.asta.tum.de/studentische-vertretung/asta/aemter/information-office-io/',
+        ],
     ];
 
     private $synonyms = [
